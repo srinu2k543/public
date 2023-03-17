@@ -1,6 +1,6 @@
 {
   "name": "@registry-ms/parsley",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Parsley is the world's most popular herb. It derives its name from the Greek word meaning 'rock celery' (parsley is a relative to celery).",
   "main": "index.js",
   "scripts": {
