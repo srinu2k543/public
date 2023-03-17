@@ -1,0 +1,14 @@
+{
+  "name": "@srinu2k543/parsley",
+  "version": "1.0.1",
+  "description": "Parsley is the world's most popular herb. It derives its name from the Greek word meaning 'rock celery' (parsley is a relative to celery).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinu2k543/public.git"
+  },
+  "author": "srinu2k543"
+}
