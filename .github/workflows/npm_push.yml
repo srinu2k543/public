@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: '@srinu2k543'
+          scope: '@masnasrinu'
 
       - name: Publish to GitHub Packages
         env:
